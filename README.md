@@ -1,4 +1,4 @@
-# AgentBasedModeling
+# Agent Based Modeling in Python
 This repo contains Jupyter notebooks developed during an Agent Based Modeling course.
 
 ## ForestFire_Model.ipynb
